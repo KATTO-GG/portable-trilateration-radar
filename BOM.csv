@@ -1,0 +1,15 @@
+Part,Quantity,Unit Price (USD),Total (USD),Vendor,Notes
+ESP32 devkit board,1,5.00,5.00,AliExpress/Amazon,ESP32-WROOM devkit-c v4 or similar
+HLK-LD2410B radar module,3,6.00,18.00,AliExpress,24GHz mmWave presence/distance sensor
+ILI9341 TFT display 2.4in,1,6.00,6.00,AliExpress/Amazon,SPI, 240x320
+18650 Li-ion battery,2,4.00,8.00,Amazon,3.7V rechargeable
+TP4056 charge module,1,1.50,1.50,AliExpress,USB-C charging + protection
+Boost converter module,1,2.00,2.00,AliExpress,5V boost from single/dual 18650
+Battery holder (2x18650),1,2.00,2.00,Amazon,
+Power switch,1,1.00,1.00,Amazon,SPST slide or toggle
+Jumper wires,1,3.00,3.00,Amazon,assorted M-M/M-F pack
+Perfboard or protoboard,1,2.00,2.00,Amazon,for soldering connections
+3D print filament (enclosure),1,8.00,8.00,Own printer/local library,PLA, ~50-100g estimate
+Misc hardware (screws standoffs),1,3.00,3.00,Amazon,for enclosure assembly
+,,,,,
+,,Total,59.50,,
